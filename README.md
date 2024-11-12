@@ -1,4 +1,4 @@
-# Packet Sniffing and Monitoring Tool
+# Packet Sniffing
 
 A packet sniffing tool built with Python and Scapy designed for network traffic monitoring and cybersecurity analysis. This tool captures network packets, filters for specific conditions, logs network traffic, and generates alerts for suspicious activity.
 
